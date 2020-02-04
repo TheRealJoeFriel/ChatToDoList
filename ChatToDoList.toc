@@ -1,0 +1,6 @@
+## Interface: 11303
+## Title: ChatToDoList
+## Author: Joe Friel
+## Version: 0.1
+## SavedVariablesPerCharacter: ToDoList
+main.lua
